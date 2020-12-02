@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
