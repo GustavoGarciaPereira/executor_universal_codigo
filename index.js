@@ -6,6 +6,8 @@ const codigoNode = `console.log("fi")`
 const codigoPython = `print("gustavo 2")`
 
 
+exec(`mkdir ${diretorio}`,{silent:true})
+
 
 //const lsJs = exec(`echo ${codigoNode} > codigoJs.js`,{silent:true})
 //const codigoJs = exec(`node codigoJs.js`,{silent:true})
